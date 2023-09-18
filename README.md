@@ -22,3 +22,4 @@ I'm a passionate full-stack web developer with a degree in Computer Science and 
 🚀 I'm always eager to connect with fellow developers, collaborate on interesting projects, and exchange insights. If you're passionate about coding, sports, or just looking to chat, feel free to reach out!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/elis-memic-0a7393bb/) and let's create something amazing together.
+Have a look at my [Portfolio](https://memicelis.github.io/my-portfolio/).
