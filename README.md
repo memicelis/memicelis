@@ -17,7 +17,7 @@ I'm a passionate full-stack web developer with a degree in Computer Science and 
 
 🤾‍♂️ Besides coding, I'm a dedicated handball player. Just as in software development, handball requires teamwork, strategy, and adaptability. My experiences on the court have taught me valuable life lessons that I often apply in my coding journey.
 
-🌱 Currently, I'm on a self-driven path of continuous learning. I'm excited to be advancing my skills through the Microverse program, where I'm mastering the art of independent learning. With each project I tackle, I'm pushing my boundaries and striving to create cleaner, more efficient code.
+🌱 Currently, I'm on a self-driven path of continuous learning. I'm mastering the art of independent learning. With each project I tackle, I'm pushing my boundaries and striving to create cleaner, more efficient code.
 
 🚀 I'm always eager to connect with fellow developers, collaborate on interesting projects, and exchange insights. If you're passionate about coding, sports, or just looking to chat, feel free to reach out!
 
