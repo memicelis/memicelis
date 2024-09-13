@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer with a degree in Computer Science and 
 
 🛠️ My skills include:
 
-- Frontend: HTML, CSS, JavaScript, Bootstrap, Sass, React
+- Frontend: HTML, CSS, JavaScript, Bootstrap, Sass, React, Hotwire
 - Backend: Ruby, Ruby on Rails, PostgreSQL, MySQL, SQLite
 - Other languages: Java, C++, C#
 
